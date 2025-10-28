@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Day01_scanf & printf.h"
+#include "Day01_scanf & printf.h"//引入Day01_scanf.h头文件
 
 void print_hello(void) {
     //基本数据类型的字面量和局部变量：存储在栈中
@@ -21,6 +21,6 @@ int main(void)
 {
     print_hello();
     //调用Day01_scanf.c中的函数
-    test_scanf();
+    test_scanf();//调用test_scanf函数
     return 0;
 }

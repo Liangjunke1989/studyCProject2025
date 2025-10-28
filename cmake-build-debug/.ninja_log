@@ -1,14 +1,9 @@
 # ninja log v6
 3	151	1758251891624300410	CMakeFiles/LJK_CWorkspace.dir/src/main.c.o	3f54e624e4b97ce9
 3	67	1761637269040915786	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/Day01_scanf.c.o	e8bd4916cd1472fa
-1	207	1761641052205163170	build.ninja	44cdf89a7dae05b6
-1	63	1761637748908900529	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/main.c.o	1f51737a15b7ee6b
-1	207	1761641052203321055	/Users/liangjunke/LJK_Workspace/LJK_CWorkspace/cmake-build-debug/cmake_install.cmake	44cdf89a7dae05b6
-63	128	1761637748970840123	LJK_CWorkspace	3d4ebb4a97e1af12
+1	207	1761641645203171160	build.ninja	44cdf89a7dae05b6
+1	54	1761641622408778267	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/main.c.o	1f51737a15b7ee6b
+1	54	1761641622409134097	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/Day01_scanf_&_printf.c.o	855c291342c17778
+1	207	1761641645202393840	/Users/liangjunke/LJK_Workspace/LJK_CWorkspace/cmake-build-debug/cmake_install.cmake	44cdf89a7dae05b6
+54	119	1761641622461582089	LJK_CWorkspace	38aab4684a30bf1f
 3	278	1761636759256226044	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/01_scanf.c.o	483ac03a7e9d50b9
-3	302	1761641086063974467	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/main.c.o	1f51737a15b7ee6b
-4	302	1761641086064937055	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/Day01_scanf_&_printf.c.o	855c291342c17778
-302	607	1761641086362577090	LJK_CWorkspace	38aab4684a30bf1f
-3	85	1761641215236035312	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/main.c.o	1f51737a15b7ee6b
-3	86	1761641215236406785	CMakeFiles/LJK_CWorkspace.dir/Day01_初识输入输出/src/Day01_scanf_&_printf.c.o	855c291342c17778
-86	168	1761641215318571629	LJK_CWorkspace	38aab4684a30bf1f
