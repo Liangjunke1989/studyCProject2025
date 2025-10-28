@@ -8,4 +8,6 @@ void test_scanf(void) {
     printf("请输入数字：");
     scanf("%d", &a);//&:取内存地址运算符,&a表示a的内存地址
     printf("输入的数字是：%d\n", a);
+    //打印&a的内存地址
+    printf("输入的数字是：%p\n", &a);
 }

@@ -21,6 +21,6 @@ int main(void)
 {
     print_hello();
     //调用Day01_scanf.c中的函数
-    test_scanf();//调用test_scanf函数
+    test_scanf();//断点意味着程序将在这里停下来，并且即将执行该行代码，但不会执行。
     return 0;
 }
