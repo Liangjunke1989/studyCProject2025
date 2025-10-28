@@ -19,7 +19,7 @@ void print_hello(void) {
 }
 int main(void)
 {
-    //print_hello();
+    print_hello();
     //调用Day01_scanf.c中的函数
     test_scanf();
     return 0;
